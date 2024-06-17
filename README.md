@@ -4,7 +4,7 @@ This repository generates JNI packages for each architecture and OS used by [TDL
 
 ## Building
 
-**todo**
+
 
 look at the dockerfile it's a decent example
 
